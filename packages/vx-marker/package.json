@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@vx/group": "0.0.170",
-    "@vx/shape": "0.0.171",
+    "@vx/shape": "0.0.198",
     "classnames": "^2.2.5"
   },
   "peerDependencies": {
