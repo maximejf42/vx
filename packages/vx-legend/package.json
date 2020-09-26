@@ -63,7 +63,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@vx/group": "0.0.170",
+    "@vx/group": "0.0.198",
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10"
   },
