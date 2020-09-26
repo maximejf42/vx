@@ -69,7 +69,7 @@
     ]
   },
   "dependencies": {
-    "@vx/event": "0.0.165",
+    "@vx/event": "0.0.198",
     "prop-types": "^15.5.10"
   }
 }
