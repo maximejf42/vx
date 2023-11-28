@@ -67,7 +67,7 @@
     "@vx/axis": "0.0.173",
     "@vx/bounds": "0.0.165",
     "@vx/boxplot": "0.0.170",
-    "@vx/brush": "0.0.165",
+    "@vx/brush": "0.0.197",
     "@vx/clip-path": "0.0.165",
     "@vx/curve": "0.0.165",
     "@vx/drag": "0.0.165",
