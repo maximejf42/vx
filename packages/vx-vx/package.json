@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "@vx/annotation": "0.0.171",
-    "@vx/axis": "0.0.173",
+    "@vx/axis": "0.0.189",
     "@vx/bounds": "0.0.165",
     "@vx/boxplot": "0.0.170",
     "@vx/brush": "0.0.165",
@@ -88,7 +88,7 @@
     "@vx/responsive": "0.0.172",
     "@vx/scale": "0.0.165",
     "@vx/shape": "0.0.171",
-    "@vx/text": "0.0.173",
+    "@vx/text": "0.0.189",
     "@vx/tooltip": "0.0.165",
     "@vx/voronoi": "0.0.170",
     "@vx/zoom": "0.0.165"
